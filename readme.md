@@ -2,28 +2,28 @@
 
 # All Topics
 
-1.Quick sort
-2.Merge sort
-3.Three way Merge sort
-4.Power
-5.Min_Max
-6.Trapping Rain water
-7.Tree traversals
-8.Search in a Matrix
-9.Quick sort List
-10.Binary Search
-11.Binary Heap
-12.Heap
-13.Peaks
-14.Sort List
-15.Ith order statistics
-16.Kth largest number
-17.Median of Medians
-18.Merge k-lists
-19.Multiply large Integers
-20.Matrix Multiplication
-21.Matrix Chain Multiplication
-22.Longest common Parenthesis
+1.Quick sort<br>
+2.Merge sort<br>
+3.Three way Merge sort<br>
+4.Power<br>
+5.Min_Max<br>
+6.Trapping Rain water<br>
+7.Tree traversals<br>
+8.Search in a Matrix<br>
+9.Quick sort List<br>
+10.Binary Search<br>
+11.Binary Heap<br>
+12.Heap<br>
+13.Peaks<br>
+14.Sort List<br>
+15.Ith order statistics<br>
+16.Kth largest number<br>
+17.Median of Medians<br>
+18.Merge k-lists<br>
+19.Multiply large Integers<br>
+20.Matrix Multiplication<br>
+21.Matrix Chain Multiplication<br>
+22.Longest common Parenthesis<br>
 
 
 # Author

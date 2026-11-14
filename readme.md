@@ -24,6 +24,9 @@
 20.Matrix Multiplication<br>
 21.Matrix Chain Multiplication<br>
 22.Longest common Parenthesis<br>
+23.0/1 Knapsack
+24.Fractional Knapsack
+25.Activity Selection Problem
 
 
 # Author

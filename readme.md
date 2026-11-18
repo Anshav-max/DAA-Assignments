@@ -29,6 +29,8 @@
 25.Activity Selection Problem<br>
 <--GRAPH--><br>
 26.Floyd-Warshall Algorithm<br>
+27.Prims's Algorithm<br>
+28.Kruskal's Algorithm<br>
 
 
 # Author
